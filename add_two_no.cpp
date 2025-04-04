@@ -25,6 +25,8 @@ int main() {
     return 0;
 }
 
+
+
 /*OUTPUT :-
 Enter the first number: 5
 Enter the second number: 7
